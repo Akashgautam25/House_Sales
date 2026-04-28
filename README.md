@@ -8,7 +8,7 @@ This project provides a comprehensive analysis of house sales data in Washington
 
 ## 🖼️ Dashboard Preview
 
-[![Dashboard](./assets/KingCountyHouseSales.png)](https://public.tableau.com/views/WashingtonKingCountyHouseSales_17773729100150/KingCountyHouseSales?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Dashboard](./House%20Sales/assets/KingCountyHouseSales.png)](https://public.tableau.com/views/WashingtonKingCountyHouseSales_17773729100150/KingCountyHouseSales?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
